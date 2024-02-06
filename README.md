@@ -27,4 +27,4 @@ Here is a schematic of the GBC and how the replacement part integrates into all 
 
 ![Replacement PCB 3D render](docs/pcb_render.png)
 
-While you're at it, replace the electrolytic caps `C32`(100µF, 6V), `C35` (22µF, 16V) and `C38` (100µF, 4V) on the bottom portion of the main PCB near the batteries with new ceramic or tantalum caps.
+While you're at it, replace the electrolytic caps `C32` (100µF, 6V), `C35` (22µF, 16V) and `C38` (100µF, 4V) on the bottom portion of the main PCB near the batteries with new ceramic or tantalum caps.
