@@ -1,4 +1,4 @@
-# GBC-LDO-Replacement
+# Game Boy Color Linear Regulator Replacement Part
 
 Replacement part for the linear regulator `U7` on the Game Boy Color. Reduces power usage a tiny bit and saves resources from the main switch mode power supply.
 
